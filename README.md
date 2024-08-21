@@ -1,6 +1,7 @@
-# query-dynamic-params
+# query-dynamic-params [![Node.js CI](https://github.com/spinualexandru/query-dynamic-params/actions/workflows/build.yml/badge.svg)](https://github.com/spinualexandru/query-dynamic-params/actions/workflows/build.yml)
 
 JavaScript/Typescript util for querying dynamic/named params
+
 
 ## Installation
 
