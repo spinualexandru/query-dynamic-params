@@ -1,4 +1,4 @@
-export function useNamedQuery(routeFormat: string, params: string[] | string, url: string) {
+export function queryDynamicParams(routeFormat: string, params: string[] | string, url: string) {
     const paramList = Array.isArray(params) ? params : [params];
 
     const [path] = url.split('?');
@@ -18,4 +18,4 @@ export function useNamedQuery(routeFormat: string, params: string[] | string, ur
     return result;
 }
 
-export default useNamedQuery;
+export default queryDynamicParams;
