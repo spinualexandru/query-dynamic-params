@@ -1,7 +1,7 @@
 # query-dynamic-params [![Build](https://github.com/spinualexandru/query-dynamic-params/actions/workflows/build.yml/badge.svg)](https://github.com/spinualexandru/query-dynamic-params/actions/workflows/build.yml)
 
 JavaScript/Typescript util for querying dynamic/named params
-
+⚠️This project is now archived as it's no longer relevant to Next 16+
 
 ## Installation
 
